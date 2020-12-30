@@ -2,7 +2,7 @@
 
 <br/>
 
-## I'm a Student at UFBA, Novice Programmer and Manga Reader !!
+## I'm a Student at UFBA and Novice Programmer !!
 
 - 🌱 I’m currently learning Verilog
 - 🥅 2021 Goals: Learn other programming languages and HDL
