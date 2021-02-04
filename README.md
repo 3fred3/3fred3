@@ -4,7 +4,7 @@
 
 ## I'm a Student at UFBA and Novice Programmer !!
 
-- 🌱 I’m currently learning Verilog
+- 🌱 I’m currently learning Verilog and Lua
 - 🥅 2021 Goals: Learn other programming languages and HDL
 - ⚡ Fun fact: I love to read Sci-fi and play guitar 
 
